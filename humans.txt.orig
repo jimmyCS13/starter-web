@@ -7,13 +7,13 @@
 
 # THANKS
 
-<<<<<<< HEAD
-    All my students. Wishing the best!!! !!!!
-=======
-    All my students. Trouble
->>>>>>> 871d4f3 (feature branck Added text)
+    All my students. Wishing the best!!! !!!! !
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+<<<<<<< HEAD
+    HTML5, CSS3, Flexbox
+=======
+    HTML5, CSS3, PHP
+>>>>>>> 2935694 (Added PHP)
     jQuery, Modernizr
