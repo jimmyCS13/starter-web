@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 Added line for example.
+More changes from feature
 ## Purpose
 
 Sample website with plenty of files for demos
