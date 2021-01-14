@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <facebook> -- <twitter>
+    <name> -- <role> -- <facebook>  -- <twitter>
+
 
 # THANKS
 
