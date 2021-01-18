@@ -15,3 +15,4 @@
 
     HTML5, CSS3, Flexbox
     jQuery, Modernizr, JS
+	GIT 2021
